@@ -1,0 +1,25 @@
+{
+    "manifest_version":3,
+    "name":"UoM moodel",
+    "description":"Base Level Extension",
+    "version":"1.0",
+    "permissions":["activeTab","scripting","tabs"],
+    "content_scripts": [
+        {
+          "js": ["content.js"],
+          "matches": [
+            "https://online.uom.lk/*",
+            "https://lms.uom.lk/*"
+          ]
+        }
+      ],
+    "action": {
+        "default_icon": {
+          "16": "hello.png",
+          "32": "hello.png",
+          "48": "hello.png",
+          "128": "hello.png"
+        },
+        "default_popup":"hello.html"
+      }
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Button</title>
+    <style>
+        /* Style the button */
+        .toggle-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+        }
+
+        /* Style for the active state */
+        .toggle-btn.active {
+            background-color: #2ecc71;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Toggle button element -->
+    <button class="toggle-btn" onclick="toggleButton()">Toggle</button>
+
+    <script>
+        // JavaScript function to toggle the button's active state
+        function toggleButton() {
+            var button = document.querySelector('.toggle-btn');
+            button.classList.toggle('active');
+        }
+    </script>
+
+</body>
+</html>

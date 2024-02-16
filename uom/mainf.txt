@@ -1,0 +1,20 @@
+  "action":{
+        "default_popup":"hello.html",
+        "default_icon":"hello.png"
+    }
+
+
+ "background":{"service_worker":"backg.js"},
+ 
+ .secondary-navigation 
+
+ .secondary-navigation .moremenu .nav-tabs .nav-link {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    color: #000;
+    border: none;
+    border-radius: 0;
+}
+
+.secondary-navigation .moremenu .nav-tabs .nav-link.active
