@@ -55,5 +55,4 @@ A sleek and modern Chrome extension built for the University of Moratuwa (UoM) c
 
 ---
 
-## 📁 Folder Structure
 
