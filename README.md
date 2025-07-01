@@ -1,11 +1,11 @@
-# 🌟 UoM Model - Chrome Extension
+# UoM Model - Chrome Extension
 
 A sleek and modern Chrome extension built for the University of Moratuwa (UoM) community!  
-✨ Features a **new custom UI theme**, minimalistic design, and **daily refreshing wallpapers** tailored to uplift your browsing experience every day.
+Features a **new custom UI theme**, minimalistic design, and **daily refreshing wallpapers** tailored to uplift your browsing experience every day.
 
 ---
 
-## 🎯 Features
+## Features
 
 - 🎨 **Custom UoM-Themed UI**  
   Brings a fresh, modern look inspired by the University of Moratuwa's identity.
@@ -24,7 +24,7 @@ A sleek and modern Chrome extension built for the University of Moratuwa (UoM) c
 
 ---
 
-## 📸 Preview
+## Preview
 
 <p align="center">
   <img src="assets/Screenshot1.png" alt="Screenshot 1" width="45%" style="margin-right:10px;"/>
@@ -37,7 +37,7 @@ A sleek and modern Chrome extension built for the University of Moratuwa (UoM) c
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`
