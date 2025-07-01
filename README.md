@@ -47,7 +47,7 @@ Features a **new custom UI theme**, minimalistic design, and **daily refreshing 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5 / CSS3 / JavaScript (Vanilla)
 - Chrome Extension APIs
