@@ -1,4 +1,4 @@
-# UoM Model - Chrome Extension
+# UoM Moodle - Chrome Extension
 
 A sleek and modern Chrome extension built for the University of Moratuwa (UoM) community!  
 Features a **new custom UI theme**, minimalistic design, and **daily refreshing wallpapers** tailored to uplift your browsing experience every day.
