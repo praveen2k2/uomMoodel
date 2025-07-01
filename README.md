@@ -26,7 +26,14 @@ A sleek and modern Chrome extension built for the University of Moratuwa (UoM) c
 
 ## 📸 Preview
 
-![Extension Screenshot](assets/Screenshot1.png)
+<p align="center">
+  <img src="assets/Screenshot1.png" alt="Screenshot 1" width="45%" style="margin-right:10px;"/>
+  <img src="assets/Screenshot3.png" alt="Screenshot 2" width="45%"/>
+</p>
+<p align="center">
+  <img src="assets/Screenshot2.png" alt="Screenshot 1" width="45%" style="margin-right:10px;"/>
+  <img src="assets/Screenshot4.png" alt="Screenshot 2" width="45%"/>
+</p>
 
 ---
 
