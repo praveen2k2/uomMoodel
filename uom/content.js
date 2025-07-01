@@ -4,11 +4,15 @@ var style = document.createElement('style');
 // CSS rules to be added
 var css = `
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&display=swap');
-body{
-    background-image: url('https://labx.edu.lk/imgs/wp.jpg');
+body {
+    background-image: url('https://bing.biturl.top/?resolution=1920&format=image');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     font-family: 'M PLUS Rounded 1c', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 #page.drawers , #region-main , .card , .list-group-item {
@@ -37,7 +41,7 @@ a:hover{
 
 .bg-white{
     background-color: rgba(255, 255, 255, 0)!important;
-    background: linear-gradient(to right,#1000A5, #ffffff00);
+    background: linear-gradient(to right,#0000009F,rgba(255, 255, 255, 0.46),#00000055);
 }
 
 .primary-navigation .navigation .nav-link{
